@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- DYNAMIC CYBERPUNK HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=MUHAMAD%20ALWAN%20SURYADI&fontSize=38&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Cyber%20%7C%20AI%20Enthusiast&descAlignY=62&fontColor=ffffff" width="100%" alt="Header" />
+<!-- 1. DYNAMIC CYBERPUNK WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=MUHAMAD%20ALWAN%20SURYADI&fontSize=36&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20Cyber%20Security%20%7C%20Creative%20Dev&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Wave" />
 
-<!-- RETRO TERMINAL ASCII ART -->
+<!-- 2. RETRO TERMINAL ASCII ART -->
 ```text
     _    _     __        ___    _   _ 
    / \  | |    \ \      / / \  | \ | |
@@ -17,13 +17,17 @@
 |____/ \___/|_| \_\|_|/_/   \_\____/___|
 ```
 
-<p align="center">
-  <code><b>&gt; S1 Teknologi Informasi @ Universitas Telkom | Competitive Programmer | Creative Dev</b></code>
-</p>
+<!-- 3. LIVE TYPEWRITER ANIMATION (SVG) -->
+<a href="https://cv-website-v2-three.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00F0FF&center=true&vCenter=true&width=560&lines=%3E_Full-Stack+Software+Engineer;%3E_Cyber+Security+%26+GRC+Enthusiast;%3E_S1+Teknologi+Informasi+%40+Telkom+University;%3E_Creative+Tech+%26+Interactive+Web;%3E_Competitive+Programmer" alt="Live Typing SVG" />
+</a>
 
+<br/><br/>
+
+<!-- 4. QUICK ACTION BADGES -->
 <p align="center">
   <a href="https://cv-website-v2-three.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_LIVE_CV-00F0FF?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Website" />
+    <img src="https://img.shields.io/badge/⚡_VISIT_PORTFOLIO-00F0FF?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Website" />
   </a>
   <a href="https://linkedin.com/in/muhamad-alwan-suryadi-86671433b">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
@@ -65,7 +69,7 @@
       <img src="https://github-readme-stats-fast.vercel.app/api?username=Ov3rkill15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub Stats" width="410" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=Ov3rkill15&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=ff007f&currStreakLabel=7aa2f7" alt="GitHub Streak" width="410" />
+      <img src="https://streak-stats.demolab.com?user=Ov3rkill15&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=00f0ff&currStreakLabel=7aa2f7" alt="GitHub Streak" width="410" />
     </td>
   </tr>
   <tr>
