@@ -1,57 +1,145 @@
 <div align="center">
 
-# Muhamad Alwan Suryadi
-### Frontend or full-stack engineer
+<!-- DYNAMIC CYBERPUNK HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=MUHAMAD%20ALWAN%20SURYADI&fontSize=38&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Cyber%20%7C%20AI%20Enthusiast&descAlignY=62&fontColor=ffffff" width="100%" alt="Header" />
 
-<br/>
-
-<!-- REPO GALAXY HERO WIDGET -->
-<a href="https://gitskins.com">
-  <img src="https://www.gitskins.com/api/templates/repo-galaxy/hero?username=Ov3rkill15&theme=github-dark" alt="Repo Galaxy @ov3rkill15" width="100%" />
-</a>
+<!-- RETRO TERMINAL ASCII ART -->
+```text
+    _    _     __        ___    _   _ 
+   / \  | |    \ \      / / \  | \ | |
+  / _ \ | |     \ \ /\ / / _ \ |  \| |
+ / ___ \| |___   \ V  V / ___ \| |\  |
+/_/   \_\_____|   \_/\_/_/   \_\_| \_|
+ ____  _   _ ______   __  _    ____ ___ 
+/ ___|| | | |  _ \ \ / / / \  |  _ \_ _|
+\___ \| | | | |_) \ V / / _ \ | | | | | 
+ ___) | |_| |  _ < | | / ___ \| |_| | | 
+|____/ \___/|_| \_\|_|/_/   \_\____/___|
+```
 
 <p align="center">
-  <strong>19</strong> public repositories, <strong>1</strong> stars, <strong>238</strong> contributions in the last year, a longest streak of <strong>4</strong> days and <strong>3</strong> followers.
+  <code><b>&gt; S1 Teknologi Informasi @ Universitas Telkom | Competitive Programmer | Creative Dev</b></code>
+</p>
+
+<p align="center">
+  <a href="https://cv-website-v2-three.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_LIVE_CV-00F0FF?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Website" />
+  </a>
+  <a href="https://linkedin.com/in/muhamad-alwan-suryadi-86671433b">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alwansuryadi25@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-### Brightest stars
+### 💻 System Diagnostics `[neofetch]`
+
+```text
+╭────────────────────────────────────────────────────────────────────────╮
+│  ov3rkill15@telkom-station:~$ neofetch                                 │
+├────────────────────────────────┬───────────────────────────────────────┤
+│             /\                 │  OS: Arch Linux x86_64                │
+│            /  \                │  Host: Telkom University (Bandung)    │
+│           / /\ \               │  Role: Lab Assistant & Tech Instructor│
+│          / /  \ \              │  Core Stack: TypeScript, Go, Kotlin   │
+│         / / /\ \ \             │  Focus: Full-Stack, Cyber, AI & WebGL │
+│        /_/ /____\ \_\          │  Philosophy: "Proof over claims"      │
+│        \____/\____/            │  Status: Active & Building in Public  │
+╰────────────────────────────────┴───────────────────────────────────────╯
+```
+
+---
+
+### ⚡ Live GitHub Telemetry
 
 <div align="center">
-  <a href="https://github.com/Ov3rkill15">
-    <img src="https://www.gitskins.com/api/templates/repo-galaxy/projects?username=Ov3rkill15&theme=github-dark" alt="Brightest Stars" width="100%" />
-  </a>
+
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Ov3rkill15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub Stats" width="410" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=Ov3rkill15&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=ff007f&currStreakLabel=7aa2f7" alt="GitHub Streak" width="410" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Ov3rkill15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" width="500" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
-### Elements
+### 🚀 Highlighted Repositories
 
 <div align="center">
-  <a href="https://github.com/Ov3rkill15">
-    <img src="https://www.gitskins.com/api/templates/repo-galaxy/languages?username=Ov3rkill15&theme=github-dark" alt="Language Stack" width="100%" />
-  </a>
+
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/Ov3rkill15/AI-Ready-ASEAN-Youth-MVP">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Ov3rkill15&repo=AI-Ready-ASEAN-Youth-MVP&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="AI-Ready-ASEAN-Youth-MVP" width="390" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Ov3rkill15/goalproof-Superteam-Hackathon">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Ov3rkill15&repo=goalproof-Superteam-Hackathon&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="goalproof-Superteam-Hackathon" width="390" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ov3rkill15/CV_project">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Ov3rkill15&repo=CV_project&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="CV_project" width="390" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Ov3rkill15/Competitive-Programming">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Ov3rkill15&repo=Competitive-Programming&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Competitive-Programming" width="390" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
-### Transmission
+### 🛠️ Weapon of Choice (Tech Stack)
 
 <div align="center">
 
-  <a href="https://github.com/Ov3rkill15">
-    <img src="https://img.shields.io/badge/GitHub-%40ov3rkill15-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub" />
-  </a>
+<!-- Frontend & Creative -->
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 
-  <br/><br/>
+<br/>
 
-  **[GitHub](https://github.com/Ov3rkill15)** &nbsp;•&nbsp; **[Website Portofolio](https://cv-website-v2-three.vercel.app/)**
+<!-- Backend & Languages -->
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
-  <br/><br/>
+</div>
 
-  <sub>Muhamad Alwan Suryadi · Repo galaxy generated with <a href="https://gitskins.com">GitSkins</a></sub>
+<br/>
 
+<div align="center">
+  <sub>⚡ Crafted by <a href="https://github.com/Ov3rkill15">Muhamad Alwan Suryadi (@Ov3rkill15)</a> · Bandung, Indonesia</sub>
 </div>
